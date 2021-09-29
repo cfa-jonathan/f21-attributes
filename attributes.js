@@ -19,3 +19,5 @@
 
 // 4) The main text color isn't being applied correctly because the "id" attribute
 //    name is incorrect. Set the correct "id" attribute name. (See: styles.css for the id)
+
+// 5) Retrieve and print the "alt" attribute of the image using a "console.log"
